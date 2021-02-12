@@ -50,7 +50,7 @@ WSGI_APPLICATION = 'yourproject.wsgi.application'
 
 ### Database name (technically optional)
 
-If you want to use a different database name thatn `myproject`, change your database settings from
+If you want to use a different database name than `myproject`, change your database settings from
 
 ```
 DATABASES = {
